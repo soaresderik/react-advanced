@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render <App /> correctly 1`] = `
+<div>
+  <Connect(CommentBox) />
+  <Connect(CommentList) />
+</div>
+`;
